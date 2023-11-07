@@ -1,0 +1,7 @@
+日付：java.text.SimpleDateFormat@4f76f1a0
+UUID：6ac0be2b-18d6-4099-94f5-239002efdf0c
+名前：tesuto
+年齢：54
+性別：man
+メールアドレス：mininori@shitemoshonu
+意見・感想：sdfrgthtyjuy ukydfsvgsrfs
